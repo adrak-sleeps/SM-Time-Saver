@@ -2,14 +2,15 @@ Name of Submission: ansita-20114014-chromeExtension
 
 Short Description:Chrome Extension to limit time on social media
 
-Repository Link:https://github.com/adrak-sleeps/makers-2021-ansita
+Repository Link: https://github.com/adrak-sleeps/makers-2021-ansita
 
-Demo Link:https://user-images.githubusercontent.com/76224935/111880017-016ba700-89cf-11eb-9499-7f2fcf75e79f.mp4
+Demo Link: https://user-images.githubusercontent.com/76224935/111880017-016ba700-89cf-11eb-9499-7f2fcf75e79f.mp4
 
- : Is this project one of the ideas listed on ideas document? YES
+ Is this project one of the ideas listed on ideas document? YES
+ 
 If you are student of IIT Roorkee, please specify your Enrollment number: 20114014
 
-Additional Description
+Additional Description:
 
 I've made a Google Chrome Extension that helps you limit your time on social media sites such as Facebook, Instagram or Twitter.
 
