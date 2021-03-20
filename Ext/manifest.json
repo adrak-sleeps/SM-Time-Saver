@@ -1,0 +1,24 @@
+/*************NOTE**********
+While loading this extension on google, choose "allow this extension" as:
+//"on specific sites" and enter social media site's urls there.
+****************************/
+{
+"manifest_version": 2,
+  "name": "SM Time Saver",
+  "description":"An application that'll help you limit your time on socia media.",
+  "version": "1.0",
+  "content_scripts": [
+  {
+	"matches":["<all_urls>"],
+	"js": ["content.js"]
+	}
+	],
+	 "permissions": ["<all_urls>"],
+	 "browser_action":{
+		"default_icon": "icon.png",
+		"default_popup": "popup.html"
+		},
+    "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon.png" }
+}
