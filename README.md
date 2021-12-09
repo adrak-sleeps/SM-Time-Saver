@@ -1,4 +1,4 @@
-# makers-2021-ansita
+# SM-Time-Saver|makers-2021-ansita
 
 Nowadays, the biggest problem faced by us youngsters is that we spend too much time on social media even when we have hundreds of assignments piled up! So to help with this problem, I've made a Google Chrome Extension that helps you limit your time on social media sites such as Facebook, Instagram or Twitter. 
 
